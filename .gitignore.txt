@@ -1,3 +1,0 @@
-*.docx 
-README.md
-build/side.txt
